@@ -2,6 +2,9 @@ dependencies:
 - name: bdd-gh-1586126489
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: bdd-ghfjxy-import-1586128712
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: bdd-nh-1586126489
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
